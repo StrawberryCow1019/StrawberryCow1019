@@ -1,0 +1,90 @@
+body  {
+    margin: 0;
+}
+
+html  {
+    
+    font-size: 30px;
+    background-color:  lightskyblue;
+}
+
+h1   {
+    font-size:  xxxxxxxxxxxlarge;
+    color:  cornsilk;
+    text-align: center;
+}
+
+body   {
+
+    font-size: xx-large;
+    color:   orangered;
+    text-align: center;
+}
+
+ul    {
+
+    color:  orangered;
+    font-size: xx-large;
+    text-align: center;
+}
+
+h2  {
+
+    text-align: center;
+    font-size: xx-large;
+    color: lightskyblue;
+}
+
+h4   {
+
+    color: orangered;
+    font-size: 50px;
+}
+
+h5   {
+
+    color: midnightblue;
+}
+
+h6   {
+
+    text-align: center;
+    color: lightskyblue;
+    font-size: 40px;
+}
+
+
+li   {
+
+    color: orangered;
+}
+
+line  {
+
+    color: lightskyblue;
+}
+
+link  {
+
+    color: lightskyblue;
+}
+
+word {
+
+    font-size: 50px;
+    text-align: center;
+}
+
+
+li2   {
+
+    color: lightskyblue;
+    text-align: center;
+    font-size: xx-small
+}
+
+li3   {
+
+    color: midnightblue;
+    text-align: center;
+}
